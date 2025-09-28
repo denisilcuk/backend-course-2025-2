@@ -1,4 +1,4 @@
-
+// Варіант 4
 const currency = "EUR";
 const exact_date = "20240910";
 
